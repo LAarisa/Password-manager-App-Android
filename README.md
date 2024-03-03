@@ -8,18 +8,16 @@ Keyshield is the proven cybersecurity leader that protects millions of people an
 ## Features
   - store all passwords securely (with data encryption)
   - automatically generate strong passwords
-  - ❓ access the passwords from any device
-  - share passwords and autofill them across all your sites and apps
   - security audit (evaluates the strength and security of stored passwords and offers suggestions for improving security)
-  - offline access
   - search and filtering of any password
-  - ❓ maximize your security by enabling fingerprint security for instant and secure access/ face recognition
+  - maximize your security by enabling fingerprint security for instant and secure access
   - includes support for your two-factor authentication (2FA) codes
-  - easily switch between multiple Keeper accounts to separate your business and personal data
+  - easily switch between multiple accounts to separate your business and personal data
   - customise the app's appearance, including themes and icons
   - hide content for sensitive data before clicked
-  - location login analysis and change the master password depending on the current location
+  - location login analysis
+    
 ## Gantt Chart
-![image](https://github.com/Marys-Hub/PasswordManager/assets/115468048/ba175170-0d4e-4427-912c-39d81429ad77)
+![280800286-ba175170-0d4e-4427-912c-39d81429ad77](https://github.com/LAarisa/Password-manager-App-Android/assets/145871024/2852ad12-dfba-4aac-a486-0407a09d2a76)
 ## Resembling Apps
 Bitwerden, Keychain on IOS, Keeper Password Manager, 1Password
