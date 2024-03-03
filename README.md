@@ -5,6 +5,10 @@ Keyshield is the proven cybersecurity leader that protects millions of people an
 ## Design
 <img src="https://github.com/LAarisa/Password-manager-App-Android/assets/145871024/2c7cf0b5-1bbf-4db6-9610-dfd2fc2fe7e0" width=200>
 
+![1](https://github.com/LAarisa/Password-manager-App-Android/assets/145871024/c78e6656-305a-4c87-90f3-a24093b8992c)
+
+![image](https://github.com/LAarisa/Password-manager-App-Android/assets/145871024/e1f98e03-ca72-4d55-8a11-a8f92a501daf)
+
 ## Features
   - store all passwords securely (with data encryption)
   - automatically generate strong passwords
