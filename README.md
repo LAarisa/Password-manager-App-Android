@@ -3,7 +3,7 @@
 The password manager app maximizes your password security and keeps your personal data secure.
 Keyshield is the proven cybersecurity leader that protects millions of people and thousands of companies globally.
 ## Design
-<img src="https://github.com/Marys-Hub/PasswordManager/assets/115468048/3bae29fa-df8b-42ba-a0a4-b5e8fb1a974f" width=200>
+<img src="https://github.com/LAarisa/Password-manager-App-Android/assets/145871024/2c7cf0b5-1bbf-4db6-9610-dfd2fc2fe7e0" width=200>
 
 ## Features
   - store all passwords securely (with data encryption)
